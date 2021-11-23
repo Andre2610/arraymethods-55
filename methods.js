@@ -15,11 +15,11 @@ function multiply(num1, num2) {
 // add1plus1();
 
 // EXPECTS ANOTHER FUNCTION AS AN ARGUMENT, AND CALLS IT
-function doSomething(potato) {
-  console.log("I am inside of the doSomething function");
-  // passing the arguments the function expects
-  potato(2, 1);
-}
+// function doSomething(potato) {
+//   console.log("I am inside of the doSomething function");
+//   // passing the arguments the function expects
+//   potato(2, 1);
+// }
 // Same thing, we created this callback
 // doSomething(add);
 // doSomething(multiply);
